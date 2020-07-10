@@ -1,4 +1,6 @@
 # Weather-Android
 
-날씨앱 구현.
-apk와 앱 실행 화면을 첨부해 두었습니다.
+openweather API를 이용한 간단한 날씨 어플입니다.
+
+apk와 실행 화면이 첨부되어 있습니다.
+
