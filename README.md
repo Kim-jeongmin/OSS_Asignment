@@ -2,6 +2,10 @@
 
 openweather API를 이용해 만든 간단한 날씨 어플입니다.
 
+<img src="https://user-images.githubusercontent.com/55871387/87225363-562e3b00-c3c7-11ea-90df-e8f638776715.jpg" width="200" />
+
+날씨 앱 아이콘
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/55871387/87225196-3cd8bf00-c3c6-11ea-91c1-11076dd2f38a.jpg" width="200" /> 
   <img src="https://user-images.githubusercontent.com/55871387/87225195-3c402880-c3c6-11ea-8d78-93102123d1f5.jpg" width="200" />
