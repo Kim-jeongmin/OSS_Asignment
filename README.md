@@ -1,6 +1,6 @@
 # Weather-Android
 
-openweather API를 이용해 만든 간단한 날씨 어플입니다.
+[openweather](https://openweathermap.org/) API를 이용해 만든 간단한 날씨 어플입니다.
 
 <img src="https://user-images.githubusercontent.com/55871387/87225363-562e3b00-c3c7-11ea-90df-e8f638776715.jpg" width="200" />
 
